@@ -1,7 +1,7 @@
 {
-  "name": "hatchet-todos",
+  "name": "typescript-node-boilerplate",
   "version": "1.0.0",
-  "description": "",
+  "description": "A boilerplate for making a node application with Typescript.",
   "main": "index.js",
   "scripts": {
     "dev": "concurrently \"npm run tsc:w\" \"nodemon dist\"",
