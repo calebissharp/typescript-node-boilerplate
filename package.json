@@ -7,6 +7,9 @@
     "dev": "concurrently \"npm run tsc:w\" \"nodemon dist\"",
     "tsc": "tsc",
     "tsc:w": "npm run tsc -- -w",
+    "typings": "typings",
+    "typings:i": "npm run typings -- install",
+    "postinstall": "npm run typings:i",
     "prestart": "npm run tsc",
     "start": "node dist"
   },
