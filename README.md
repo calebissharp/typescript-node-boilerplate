@@ -1,5 +1,5 @@
 # typescript-node-boilerplate
-A boilerplate for making a node application with Typescript
+A boilerplate for making a node application with Typescript.
 
 ## Getting Started
 
